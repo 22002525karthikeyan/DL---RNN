@@ -27,9 +27,9 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name: JAIGANESH S
+### Name: KARTHIKEYAN R
 
-### Register Number: 212222240037
+### Register Number: 212222240046
 
 ```python
 import numpy as np
